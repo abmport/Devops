@@ -5,3 +5,8 @@ git add <Nome do Arquivo> #Prepara o arquivo
 git commit -m #Fecha uma versão do arquivo
 
 git push origin master #Envia o arquivo para github
+
+git add -A
+
+git add .
+
